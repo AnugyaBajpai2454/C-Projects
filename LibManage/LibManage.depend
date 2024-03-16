@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710599634 source:c:\users\bajpa\documents\c++ proje\libmanage\main.cpp
+	<iostream>
+	<fstream>
+
